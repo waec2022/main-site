@@ -1,0 +1,13 @@
+[
+  {
+    "id": "john-okoro",
+    "name": "Dr. John Okoro",
+    "department": "Computer Science",
+    "faculty": "Physical Sciences",
+    "office": "Main Building, Room 312",
+    "officeHours": "Mon–Fri, 10am–12pm",
+    "email": "jokoro@unical.edu.ng",
+    "phone": "0812 345 6789",
+    "courses": ["CSC 201 — Data Structures", "CSC 301 — Software Engineering"]
+  }
+]
